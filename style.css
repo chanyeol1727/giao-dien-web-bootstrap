@@ -1,0 +1,40 @@
+body{
+	background-color: #f6f5f1;
+}
+.main-menu nav{
+	list-style: none;
+	margin-bottom: 20px;
+	padding: 0px;
+}
+.main-menu ul{
+	background-color: #74b3e6;
+	list-style-type: none;
+	display: block;
+	margin: 0px;
+	padding: 0px;
+}
+.main-menu li{
+	display: inline-block;
+	padding: 0px;
+	margin: 0px;
+	border-right: solid 1px #FFFFFF;
+}
+a{
+	text-decoration: none;
+	color: white;
+	align: center;
+}
+.main-menu ul li a:hover{
+	background-color: black;
+}
+.main-menu ul li a{
+	display: block;
+	padding: 20px;
+}
+#h5{
+	margin-bottom: 20px;
+}
+#footer{
+	color: white;
+	background: #252525;
+}
